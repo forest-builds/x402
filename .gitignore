@@ -46,3 +46,4 @@ REVIEW_PROMPT.md
 .omc/
 /demo/
 /contracts/tvm/
+coverage/
